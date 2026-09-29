@@ -57,6 +57,7 @@ flowchart TD
     Exec --> Ansible[Ansible]
     Exec --> Argo[Argo CD]
     Exec --> External[External Systems]
+```
 
 ## Primary User Personas
 
